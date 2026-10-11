@@ -1,0 +1,25 @@
+[{
+    "id": 1,
+    "SubAbre": "FAR",
+    "SubName": "Financial Accounting & Reporting"
+}, {
+    "id": 2,
+    "SubAbre": "AFAR",
+    "SubName": "Advanced Financial Accounting & Reporting"
+}, {
+    "id": 3,
+    "SubAbre": "MS",
+    "SubName": "Management Services"
+}, {
+    "id": 4,
+    "SubAbre": "RFBT",
+    "SubName": "Regular Framework for Business Transactions"
+}, {
+    "id": 5,
+    "SubAbre": "AUD",
+    "SubName": "Auditing"
+}, {
+    "id": 6,
+    "SubAbre": "TAX",
+    "SubName": "Taxation"
+}]
